@@ -1,9 +1,9 @@
 {
-	"name": "your extension name",
-	"description": "your extension description",
-	"displayName": "your extension display name",
-	"version": "0.0.0",
-	"publisher": "your name",
+	"name": "D7kj HBuilderX Extension",
+	"description": "d7kj自定义插件",
+	"displayName": "D7kj HBuilderX Extension",
+	"version": "21.1.16.1",
+	"publisher": "feifeigd",
 	"engines": {
 		"HBuilderX": "^2.7.0"
 	},

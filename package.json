@@ -5,7 +5,7 @@
 	"version": "21.1.16.1",
 	"publisher": "feifeigd",
 	"engines": {
-		"HBuilderX": "^2.7.0"
+		"HBuilderX": "^3.0.5"
 	},
 	"categories": [
 		"Other"
@@ -29,7 +29,20 @@
 					"group": "z_commands"
 				}
 			]
+		},
+		"viewsContainers": {
+			"activitybar": [{
+				"id": "demoview",
+				"title": "Demo View"
+			}]
+		},
+		"views": {
+			"demoview": [{
+				"id": "extensions.treedemo",
+				"name": "Demo.View"
+			}]
 		}
+		
 	},
 	"extensionDependencies": [
 		"plugin-manager"
